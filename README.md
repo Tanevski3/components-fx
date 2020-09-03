@@ -1,6 +1,3 @@
-# components-fx
-A collection of JavaFX components
-
 # ComponentsFX
 > **ComponentsFX** is a collection of JavaFX components
 
